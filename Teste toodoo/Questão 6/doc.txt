@@ -1,0 +1,8 @@
+Dentro da tag head dp html, usamos a tag <link rel="" href="">
+
+Sendo esses parametros, o rel para definir o tipo de arquivo que sera linkado, nesse caso usaremos "styleshhet", ou folha de estilo, que se refere a estilização da pagina
+
+E o segundo parametro sendo o href, que diz respeito ao diretorio do arquivo, nesse caso como está no mesmo local, botaremos / na frente em seguida o nome do arquivo
+
+Tal forma que o resultado final fique como 
+    <link rel="stylesheet" href="style.css">

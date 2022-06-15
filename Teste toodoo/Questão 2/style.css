@@ -1,0 +1,11 @@
+.cabecalho {
+    font-family: Arial;
+    /*Definição do estilo da fonte */
+
+    font-weight: bold;
+    /*Definição da fonte em negrito */
+
+    text-transform: uppercase;
+    /*Aplicação do efeito caixa alta */
+
+}

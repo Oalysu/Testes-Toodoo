@@ -1,0 +1,7 @@
+.linhas li {
+    text-decoration: underline;
+}
+
+.linhas li:nth-child(4) {
+    text-decoration:none;
+}

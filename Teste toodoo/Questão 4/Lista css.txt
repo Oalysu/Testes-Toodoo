@@ -1,0 +1,14 @@
+Usaria a seguinte estrutura html
+
+    <ul class="vertical">
+        <li>item1</li>
+        <li>item2</li>
+        <li>item3</li>
+    </ul>
+
+    <style>
+        .vertical {
+            display: flex;
+            flex-direction: column;
+        }
+    </style>
